@@ -1,0 +1,13 @@
+<!DOCTYPE genStore SYSTEM "p2.dtd">
+<genStore>
+    <items>
+        <chocolate>
+            <price>10</price>
+            <quantity>1000</quantity>
+        </chocolate>
+        <biscuit>
+            <price>5</price>
+            <quantity>2000</quantity>
+        </biscuit>
+    </items>
+</genStore>

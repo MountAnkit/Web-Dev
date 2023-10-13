@@ -1,0 +1,17 @@
+p{
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    text-decoration: overline;
+    font-weight: bold;
+    font-style: oblique;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    line-height: 100px;
+}
+.abc{
+    color: red;
+}
+.button{
+    background-color: green;
+}

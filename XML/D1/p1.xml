@@ -1,0 +1,11 @@
+<!DOCTYPE Book SYSTEM "p1.dtd">
+<Book>
+    <fiction>
+        <name>HP</name>
+        <year>2004</year>
+    </fiction>
+    <NonFiction>
+        <name>NF</name>
+        <year>2005</year>
+    </NonFiction>
+</Book>

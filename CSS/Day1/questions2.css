@@ -1,0 +1,27 @@
+#box{
+    background-color: black;
+    height: 120px;
+    width: 45px;
+    padding: 5px;
+}
+.circle1{
+    background-color: red;
+    border-radius: 50%;
+    height: 35px;
+    width: 35px;
+    margin: 5px;
+}
+.circle2{
+    background-color: yellow;
+    border-radius: 50%;
+    height: 35px;
+    width: 35px;
+    margin: 5px;
+}
+.circle3{
+    background-color: green;
+    border-radius: 50%;
+    height: 35px;
+    width: 35px;
+    margin: 5px;
+}

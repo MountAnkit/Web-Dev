@@ -1,0 +1,27 @@
+#box1{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    font-size: 10px;
+}
+#box2{
+    height: 50px;
+    width: 3em;
+    margin-left: 10%;
+    font-size: 2em;
+    background-color: yellow;
+}
+#box3{
+    position: static;
+}
+#box4{
+    position: relative;
+    left: 10px;
+}
+#box5{
+    position: relative;
+}
+#box6{
+    position: fixed;
+    left: 10px;
+}

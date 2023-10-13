@@ -1,0 +1,6 @@
+<!ELEMENT genStore (items)>
+<!ELEMENT items (chocolate,biscuit)>
+<!ELEMENT chocolate (price,quantity)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT quantity (#PCDATA)>
+<!ELEMENT biscuit (price,quantity)>

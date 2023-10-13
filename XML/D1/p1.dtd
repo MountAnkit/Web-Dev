@@ -1,0 +1,5 @@
+<!ELEMENT Book (fiction,NonFiction)>
+<!ELEMENT fiction (name,year)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT NonFiction (name,year)>

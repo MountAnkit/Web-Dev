@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<college>
+    <name>NIET</name>
+    <block>
+        <name>A</name>
+        <name>B</name>
+        <name>C</name>
+        <name>D</name>
+    </block>
+</college>
