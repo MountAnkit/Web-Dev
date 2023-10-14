@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        username = 'Ankit'
+        function showmsg(){
+            username = 'Ank'
+            let msg = 'Hello,'+username
+            alert(msg)
+        }
+        alert(username);//global username = Ankit
+        showmsg();//func changed global value
+        alert(username); //global username changed to ank
+    </script>
+</body>
+</html>
